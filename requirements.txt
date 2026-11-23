@@ -1,0 +1,5 @@
+streamlit
+faster-whisper==1.2.1
+numpy
+plotly
+av<19
